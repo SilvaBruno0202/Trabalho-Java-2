@@ -20,8 +20,6 @@ public class Main {
 		System.out.println("Soma dos dC-gitos: " + soma + " | MC3dulo 3 = " + modulo);
 
 		Map<String, Pessoa> mapaPessoas = new HashMap<>();
-		Set<Pessoa> setPessoas = new HashSet<>();
-		List<Pessoa> listaPessoas = new ArrayList<>();
 
 		System.out.println("==> Cadastrar Aluno <==");
 		System.out.printf("Nome: ");
